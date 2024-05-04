@@ -15,7 +15,6 @@ class Tester:
 
         if passing:
             print("Passed")
-            print(num_list)
             
         else:
             print("Failed")
